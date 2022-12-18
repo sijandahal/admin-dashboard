@@ -9,8 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "eslint-plugin-react": "^7.31.11",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.5",
+    "react-uuid": "^2.0.0",
+    "vite-plugin-rewrite-all": "^1.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
