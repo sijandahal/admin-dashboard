@@ -1,16 +1,17 @@
 const Sidebarmenus = [
   {
     title: "Main",
+    icon: "BeakerIcon",
     menu: {
       menuTitle: "Dashboard",
-      menuPath: "/dashboard",
+      menuPath: "/",
     },
   },
   {
     title: "Lists",
     menu: {
       menuTitle: "Users",
-      menuPath: "/dashboard",
+      menuPath: "/users",
     },
   },
 ];
